@@ -620,6 +620,14 @@ html {
      object-fit: cover;
 }
 
+.p-6 {
+  padding: 1.5rem;
+}
+
+.p-12 {
+  padding: 3rem;
+}
+
 .pb-16 {
   padding-bottom: 4rem;
 }
